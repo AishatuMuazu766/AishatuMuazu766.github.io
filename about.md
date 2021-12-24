@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+### SADIYA ALIYU MAIKANO 
+Cell: +234 803 827 4451
 
-Some information about you!
+Address: Utako Anthony Enathoro Street No 48 Abuja, Nigeria
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+### Skills:
+C++, Microsoft productivity software(Word, excel, etc), Good with people.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[muazuaishatu18@gmail.com](mailto:muazuaishatu18@gmail.com)
