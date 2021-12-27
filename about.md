@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+![](images/Nigerian-Turkish-Nile-University-Accredited-Courses.jpg)
 ### AISHATU MUAZU
 
 
