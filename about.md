@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### AISHATU MUAZU
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+### Skills:
+C++, Microsoft productivity software(Word, excel, etc), Good with people.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[muazuaishatu18@gmail.com](mailto:muazuaishatu18@gmail.com)
